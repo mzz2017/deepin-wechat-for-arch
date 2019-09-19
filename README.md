@@ -1,12 +1,12 @@
-## deepin-wechat-for-arch
+# deepin-wechat-for-arch
 
-### package info
+## package info
 
 package name: deepin-wechat
 
 ver: 2.6.8.65
 
-### build & install
+## build & install
 
 ```bash
 makepkg -sri
